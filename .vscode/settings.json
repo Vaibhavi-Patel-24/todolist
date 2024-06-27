@@ -1,0 +1,10 @@
+{
+    "workbench.settings.useSplitJSON": false,
+    "json.schemas": [
+      {
+        "fileMatch": ["package.json"],
+        "url": "file:///D:/todos-list/package.json"
+      }
+    ]
+  }
+  
